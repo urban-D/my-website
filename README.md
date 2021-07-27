@@ -8,3 +8,7 @@ Updated made on main on gihub before rebase
 conflicting merge
 
 more changes
+
+## getting started
+
+get started here
